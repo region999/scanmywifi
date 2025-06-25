@@ -1,0 +1,36 @@
+# Android Studio
+*.iml
+.gradle/
+build/
+.idea/
+local.properties
+
+# Kotlin/Java compiled files
+*.class
+*.dex
+*.apk
+
+# Dependency directories
+/node_modules
+/captures
+
+# Log files
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Gradle build files
+*.bin
+*.lock
+
+# Virtual machine crash logs
+hs_err_pid*
+
+# Android build output
+/app/build/
+/app/release/
+
+# Environment files
+.env
